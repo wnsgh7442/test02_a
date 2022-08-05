@@ -4,5 +4,7 @@ System.out.println(“덧셈 결과: ” + (a+b)); }
 }
 System.out.println(“뺄셈 결과: ” + (a-b)); }
 }
-System.out.println(“곱셈 결과: ” + (a-b)); }
+System.out.println(“곱셈 결과: ” + (a*b)); }
+}
+System.out.println(“누눗셈 결과: ” + (a%b)); }
 }
